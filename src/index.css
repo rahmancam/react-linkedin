@@ -8,6 +8,10 @@ body {
   box-sizing: border-box;
 }
 
+body {
+  font-family: Arial, sans-serif;
+}
+
 div, h1, h2, h3, 
 h4, h5, h6, header, 
 html, img, i, label, 
